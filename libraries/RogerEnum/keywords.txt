@@ -1,0 +1,16 @@
+# Datatypes
+
+State		KEYWORD1
+DriveState	KEYWORD 1
+
+# Constants
+
+Drive		LITERAL1
+Avoid		LITERAL1
+AvoidTurning	LITERAL1
+Reverse		LITERAL1
+
+Left		LITERAL1
+Right		LITERAL1
+Forward		LITERAL1
+Backward	LITERAL1
